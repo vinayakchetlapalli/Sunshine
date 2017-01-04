@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_detail">DetailActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name ="pref_location_key">location</string>
+    <string name="pref_location_default" translatable="false" >94539</string>
+    <string name="pref_temperature_key">temperature</string>
+    <string name="action_share">Share</string>
+    <string name="pref_units_key">units</string>
+    <string name="pref_units_metric">metric</string>
+    <string name="pref_units_imperial">fahrenheit</string>
+    <string name="pref_temperature_default">Metric</string>
+    <string name="content_authority">com.example.android.sunshine.app</string>
+    <string name="provider_name">WeatherProvider</string>
+    <string-array name="Temperature_Unit_Options">
+        <item>Metric</item>
+        <item>Fahrenheit</item>
+    </string-array>
+    <string-array name="Units">
+        <item>Metric</item>
+        <item>Fahrenheit</item>
+    </string-array>
+</resources>
